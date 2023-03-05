@@ -10,15 +10,15 @@
 - 💬 Ask me about **
  As a Junior QA Engineer, software testing is a challenging and exciting job. Each project brings different testing problems that require a unique solution. It's not always easy to develop the right mindset to test the product from different aspects, but the challenge is what makes it fun. One of the most satisfying aspects of software testing is resolving issues. It's like doing a puzzle, and once you find the correct piece, it's a great feeling. 
 
- By finding and tracking bugs and developing ideas for improvement, we can contribute to the betterment of the product. Software testing is a complex task that involves comprehending and testing products while considering various factors like functionality, performance, security, and more. It's especially challenging with mobile applications as it requires understanding the vast range of devices available and checking the application's behavior in terms of response time and usability. 
+- By finding and tracking bugs and developing ideas for improvement, we can contribute to the betterment of the product. Software testing is a complex task that involves comprehending and testing products while considering various factors like functionality, performance, security, and more. It's especially challenging with mobile applications as it requires understanding the vast range of devices available and checking the application's behavior in terms of response time and usability. 
 
- The ultimate purpose of software testing is not just to find bugs but to make the product superior.
+- The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
- As a tester, we can contribute to the improvement of the product's quality and play an important role in the company. Software testing also allows us to critique other people's work, which is an asset in this job. However, it's important to limit this attitude to work and not let it affect our relationships with colleagues or personal life. 
+- As a tester, we can contribute to the improvement of the product's quality and play an important role in the company. Software testing also allows us to critique other people's work, which is an asset in this job. However, it's important to limit this attitude to work and not let it affect our relationships with colleagues or personal life. 
 
-Understanding the customer is a crucial aspect of software testing. We need to study the market and understand the latest trends, comprehend what the customer wants, provide relevant information to the client, and ultimately think like the customer and work on the product. 
+- Understanding the customer is a crucial aspect of software testing. We need to study the market and understand the latest trends, comprehend what the customer wants, provide relevant information to the client, and ultimately think like the customer and work on the product. 
 
-As software testers, we learn quickly and implement new ideas. We experience challenges every day, which stretches our mind and improves our analysis power. Innovation and the generation of new ideas are critical in software testing, and we need to comprehend the big picture.**
+- As software testers, we learn quickly and implement new ideas. We experience challenges every day, which stretches our mind and improves our analysis power. Innovation and the generation of new ideas are critical in software testing, and we need to comprehend the big picture.**
 
 - 📫 How to reach me **popedan99@yahoo.com**
 
