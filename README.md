@@ -19,7 +19,7 @@
 
 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
-<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="leftt" height="160" width="200">
+<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="leftt" height="360" width="400">
 
 
 - As a tester, we can contribute to the improvement of the product's quality and play an important role in the company. Software testing also allows us to critique other people's work, which is an asset in this job. However, it's important to limit this attitude to work and not let it affect our relationships with colleagues or personal life. 
