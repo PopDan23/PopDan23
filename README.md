@@ -8,11 +8,8 @@
 - 🤝 I’m looking for help with **learning about QA**
 
 <div>
-  <img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="left" height="300" width="500" alt="Broken Image"/>
-</div>
-
 <img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="leftt" height="360" width="400">
-
+</div>
 
 - 💬 Ask me about **
  As a Junior QA Engineer, software testing is a challenging and exciting job. Each project brings different testing problems that require a unique solution. It's not always easy to develop the right mindset to test the product from different aspects, but the challenge is what makes it fun. One of the most satisfying aspects of software testing is resolving issues. It's like doing a puzzle, and once you find the correct piece, it's a great feeling. 
