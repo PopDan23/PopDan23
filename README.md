@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **learning about QA**
 
-![Image broken]<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axelerant.com%2Fblog%2Fa-qa-engineers-perspective-to-accessibility-testing&psig=AOvVaw3apAuWpw1_e0ojC0D8A83m&ust=1678187783683000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD7y-eWx_0CFQAAAAAdAAAAABAE" align="right" height="150">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axelerant.com%2Fblog%2Fa-qa-engineers-perspective-to-accessibility-testing&psig=AOvVaw3apAuWpw1_e0ojC0D8A83m&ust=1678187783683000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD7y-eWx_0CFQAAAAAdAAAAABAE" align="left" height="150">
 
 <img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="leftt" height="130">
 
@@ -18,6 +18,9 @@
 - By finding and tracking bugs and developing ideas for improvement, we can contribute to the betterment of the product. Software testing is a complex task that involves comprehending and testing products while considering various factors like functionality, performance, security, and more. It's especially challenging with mobile applications as it requires understanding the vast range of devices available and checking the application's behavior in terms of response time and usability. 
 
 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
+
+<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="leftt" height="160" width="200">
+
 
 - As a tester, we can contribute to the improvement of the product's quality and play an important role in the company. Software testing also allows us to critique other people's work, which is an asset in this job. However, it's important to limit this attitude to work and not let it affect our relationships with colleagues or personal life. 
 
