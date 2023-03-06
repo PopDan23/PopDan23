@@ -9,6 +9,8 @@
 
 ![Image broken]<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axelerant.com%2Fblog%2Fa-qa-engineers-perspective-to-accessibility-testing&psig=AOvVaw3apAuWpw1_e0ojC0D8A83m&ust=1678187783683000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD7y-eWx_0CFQAAAAAdAAAAABAE" align="right" height="150">
 
+<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="right" height="150">
+
 - 💬 Ask me about **
  As a Junior QA Engineer, software testing is a challenging and exciting job. Each project brings different testing problems that require a unique solution. It's not always easy to develop the right mindset to test the product from different aspects, but the challenge is what makes it fun. One of the most satisfying aspects of software testing is resolving issues. It's like doing a puzzle, and once you find the correct piece, it's a great feeling. 
 
