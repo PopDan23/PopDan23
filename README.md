@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **learning about QA**
 
 <div>
-<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="leftt" height="360" width="400">
+<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="left" height="350" width="450">
 </div>
 
 - 💬 Ask me about **
