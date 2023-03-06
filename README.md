@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **learning about QA**
 
-<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="center" height="300" width="500">
+<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="left" height="300" width="500">
 
 
 - 💬 Ask me about **
@@ -17,7 +17,7 @@
 
 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
-<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="left" height="360" width="400">
+<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="leftt" height="360" width="400">
 
 
 - As a tester, we can contribute to the improvement of the product's quality and play an important role in the company. Software testing also allows us to critique other people's work, which is an asset in this job. However, it's important to limit this attitude to work and not let it affect our relationships with colleagues or personal life. 
