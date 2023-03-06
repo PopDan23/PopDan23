@@ -19,7 +19,7 @@
 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
 
-<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="leftt" height="360" width="400">
+<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" height="360" width="400">
 
 
 
