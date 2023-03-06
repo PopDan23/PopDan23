@@ -7,11 +7,10 @@
 
 - 🤝 I’m looking for help with **learning about QA**
 
-<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="left" height="300" width="500">
-
 <p align="center">
-  <img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="left" height="300" width="500"alt="Broken Image"/>
+  <img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" align="left" height="300" width="500" alt="Broken Image"/>
 </p>
+
 
 - 💬 Ask me about **
  As a Junior QA Engineer, software testing is a challenging and exciting job. Each project brings different testing problems that require a unique solution. It's not always easy to develop the right mindset to test the product from different aspects, but the challenge is what makes it fun. One of the most satisfying aspects of software testing is resolving issues. It's like doing a puzzle, and once you find the correct piece, it's a great feeling. 
@@ -20,7 +19,9 @@
 
 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
+
 <img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" align="leftt" height="360" width="400">
+
 
 
 - As a tester, we can contribute to the improvement of the product's quality and play an important role in the company. Software testing also allows us to critique other people's work, which is an asset in this job. However, it's important to limit this attitude to work and not let it affect our relationships with colleagues or personal life. 
