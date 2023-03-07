@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Popescu Dan</h1>
 <h3 align="center">A passionate Junior QA Engineer from Romania</h3>
 
-<img src="popescu_dan.gif" width="500">
+<img src="[MyGIF](https://github.com/PopDan23/Folder/blob/main/popescu_dan.gif)" width="500">
 <!-- For GIF to make https://codesandbox.io/s/github-profile-2ijk7?file=/src/main.js
  Video go GIF https://ezgif.com/
 To Record Screen: https://ezgif.com/-->
