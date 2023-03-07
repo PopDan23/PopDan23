@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Popescu Dan</h1>
 <h3 align="center">A passionate Junior QA Engineer from Romania</h3>
 
+<img src="https://2ijk7.csb.app/" width="500">
+
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
