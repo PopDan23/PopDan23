@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Popescu Dan</h1>
 <h3 align="center">A passionate Junior QA Engineer from Romania</h3>
 
-<img src="https://github.com/PopDan23/Folder/blob/main/popescu_dan.gif?autoplay=true" width="500">
-
-![Hey there, I'm Dan. I'm a QA Engineer, passionate about testing.Check out my work](https://github.com/PopDan23/Folder/blob/main/popescu_dan.gif?autoplay=true)
+![Hey there, I'm Dan. I'm a QA Engineer, passionate about testing.Check out my work](https://github.com/PopDan23/Folder/blob/main/popescu_dan.gif)
 
 <!-- For GIF to make https://codesandbox.io/s/github-profile-2ijk7?file=/src/main.js
  Video go GIF https://ezgif.com/
