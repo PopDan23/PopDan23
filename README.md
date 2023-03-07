@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **learning about QA**
 
 <div>
-<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" height="350" width="450">
+<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" height="350" width="480">
 </div>
 
 
@@ -21,7 +21,7 @@
 📖 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
 
-<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" height="360" width="400">
+<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" height="360" width="420">
 
 
 
