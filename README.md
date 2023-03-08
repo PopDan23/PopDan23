@@ -15,8 +15,9 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 
 📺  Regression testing can be conducted manually or automated, depending on the complexity and scope of the software being tested. 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
+</p>
 
 - 🔭 I’m currently working on **improving myself everyday**
 
@@ -24,10 +25,9 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 
 - 🤝 I’m looking for help with **learning about QA**
 
-<div>
-<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh" height="350" width="480">
+<div align="center">
+<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh">
 </div>
-
 
 - 💬 Ask me about **
 
@@ -38,7 +38,7 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 📖 - The ultimate purpose of software testing is not just to find bugs but to make the product superior.
 
 
-<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" height="360" width="420">
+<img src="https://cdn-gcp.new.marutitech.com/56a1bdf8-continuous-process-improvement3.jpg" height="460" width="500">
 
 
 
@@ -47,6 +47,10 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 ⚙️ - Understanding the customer is a crucial aspect of software testing. We need to study the market and understand the latest trends, comprehend what the customer wants, provide relevant information to the client, and ultimately think like the customer and work on the product. 
 
 👨‍💻 - As software testers, we learn quickly and implement new ideas. We experience challenges every day, which stretches our mind and improves our analysis power. Innovation and the generation of new ideas are critical in software testing, and we need to comprehend the big picture.**
+
+<p>
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Project_Quality_Management.jpg" at="qa photo">
+</p>
 
 - 📫 How to reach me **popedan99@yahoo.com**
 
