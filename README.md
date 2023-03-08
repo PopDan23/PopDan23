@@ -25,8 +25,9 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 - 🤝 I’m looking for help with **learning about QA**
 
 <div align="center">
-<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh">
+<img src="https://www.transperfect.com/sites/default/files/styles/responsive_image_2000/public/media/image/Learning%20About%20Quality%20The%20Difference%20Between%20QA%20%26%20QC.jpg?itok=y3_PRKlh"  height="500" width="800>
 </div>
+
 
 - 💬 Ask me about **
 
@@ -47,7 +48,7 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 👨‍💻 - As software testers, we learn quickly and implement new ideas. We experience challenges every day, which stretches our mind and improves our analysis power. Innovation and the generation of new ideas are critical in software testing, and we need to comprehend the big picture.**
 
 <p>
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Project_Quality_Management.jpg" at="qa photo">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Project_Quality_Management.jpg" alt="qa photo"  height="460" width="720">
 </p>
 
 - 📫 How to reach me **popedan99@yahoo.com**
