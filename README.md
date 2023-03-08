@@ -11,9 +11,8 @@
 To Record Screen: https://ezgif.com/
 Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 
-⚓  In simple terms, regression testing is a type of software testing that is performed to check whether the changes or modifications made to the software have introduced any new defects or caused any unintended consequences.
-
-📺  Regression testing can be conducted manually or automated, depending on the complexity and scope of the software being tested. 
+⚓  
+📺  
 
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
