@@ -11,8 +11,9 @@
 To Record Screen: https://ezgif.com/
 Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 
-⚓  
+<!-- ⚓  
 📺  
+-->
 
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
