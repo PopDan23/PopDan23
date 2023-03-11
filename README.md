@@ -56,8 +56,6 @@ Easy trick for GIFs: https://www.youtube.com/watch?v=EF6fqnnl3Uk -->
 
 - 📄 Know about my experiences [www.linkedin.com/in/popescu-dan-a21306221](www.linkedin.com/in/popescu-dan-a21306221)
 
-- ⚡ Fun fact **I like Asian Culture and Animals**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/popescu-dan-a21306221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/popescu-dan-a21306221" height="30" width="40" /></a>
